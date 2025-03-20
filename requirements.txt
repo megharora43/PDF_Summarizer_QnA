@@ -11,3 +11,7 @@ huggingface-hub
 python-dotenv
 numpy
 scikit-learn
+os
+PyPDF2
+streamlit
+langchain_community
