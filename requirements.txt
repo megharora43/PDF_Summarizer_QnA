@@ -14,4 +14,3 @@ PyPDF2
 streamlit
 langchain_community
 faiss-cpu
-faiss-gpu
