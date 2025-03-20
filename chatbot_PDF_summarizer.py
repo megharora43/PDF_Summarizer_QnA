@@ -9,7 +9,6 @@ from langchain_community.vectorstores import FAISS
 from langchain.chains import RetrievalQA
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
 load_dotenv()
 
 # Function to read PDF and extract text
